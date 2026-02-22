@@ -28143,6 +28143,12 @@
             "title_aux": "FreezeFrame"
         }
     ],
+    "https://github.com/c0dezer019/AssetManager": [
+	[],
+	{
+	    "title_aux":"Asset Manager"
+	}
+    ],
     "https://github.com/c0ffymachyne/ComfyUI_BeatByte": [
         [
             "BytebeatSynth"

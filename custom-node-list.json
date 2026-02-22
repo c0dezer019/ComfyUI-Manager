@@ -42299,6 +42299,17 @@
             "install_type": "git-clone",
             "description": "Modifed Sampler nodes that allow you to pause/resume generations. For those with older hardware running in CPU mode or old GPUs. Useful for managing thermals."
         },
+	{
+            "author": "c0dezer019",
+            "title": "Asset Manager",
+            "id": "assetmanager",
+            "reference": "https://github.com/c0dezer019/AssetManager",
+            "files": [
+                "https://github.com/c0dezer019/AssetManager"
+            ],
+            "install_type": "git-clone",
+	    "description": "ComfyUI sidebar extension for browsing, searching, and managing generated images and input assets. Scans input, output, and custom directories; indexes PNG/WebP metadata into SQLite for fast filtering by model, LoRA, sampler, prompt, and more; supports favorites, NSFW filtering, workflow loading, and an integrated fullscreen image viewer."
+        },
         {
             "author": "mingyi456",
             "title": "ComfyUI DFloat11 Extended",
